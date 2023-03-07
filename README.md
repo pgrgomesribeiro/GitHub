@@ -1,4 +1,4 @@
-# Treinamento de GitHub
+# *** Treinamento de GitHub ***
 # Comandos Git
 # git clone Nome Repositório => Clona um repositório no seu PC
 # git status => Status do repositório
@@ -9,3 +9,5 @@
 # git log => Traz o histórico do diretório
 # git push origin main => Faz o upload dos arquivos para o GitHub online
 # git pull origin main => Traz as mudanças realizadas no GitHub online para o PC
+
+# Toda alteração realizada em um arquivo no diretório local deve ser adicionada ao diretório novamente (git add), comimitada novamente (git commit -m "Comentário") e fazer o upload para a nuvem novamente (git push origin main).
